@@ -1,6 +1,6 @@
-# 🧚🏻‍♀️ Tia Marie
+# <img align="left" alt="Java" width="40px" style="" src="https://i.postimg.cc/SxWgcBtk/tumblr-f3c495760a6354a3db71752c70e5c6bb-e6aaffdb-250.png"/> Tia Marie
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1000&color=FE75B4&width=435&lines=Welcome!;Front+end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1000&color=E55508&width=435&lines=Welcome!;Front+end+developer;Always+learning+new+things;Happy+Halloween!" alt="Typing SVG" /></a>
 
 **`Web Designer (Developer/Photographer/Creator)`**
 
@@ -10,7 +10,7 @@ Reach out to me at <b>tiamarie7@gmail.com</b>
 
 #
 
-### 🧰 Languages and Tools
+### <img align="left" alt="Java" width="32px" style="" src="https://i.postimg.cc/y8VLXQqR/tumblr-2826e53d3c4345998b0800677ed53630-bfc2a79a-250.png"/> Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
@@ -30,8 +30,8 @@ Reach out to me at <b>tiamarie7@gmail.com</b>
 
 #
 
-### 📊 Stats
-![Tia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiamarie7&show_icons=true&theme=panda)
+### <img align="left" alt="Java" width="32px" style="" src="https://i.postimg.cc/7hGVhd2v/tumblr-9e6ba829f7ccbc5a817df3d24f2c12e8-9567b12b-250.png"/> Stats
+![Tia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiamarie7&show_icons=true&theme=darcula)
 
 #
 
