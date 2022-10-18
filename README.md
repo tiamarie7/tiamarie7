@@ -1,4 +1,4 @@
-# <img align="left" alt="Java" width="40px" style="" src="https://i.postimg.cc/SxWgcBtk/tumblr-f3c495760a6354a3db71752c70e5c6bb-e6aaffdb-250.png"/> Tia Marie
+# <img align="left" alt="Java" width="40px" style="padding:10px" src="https://i.postimg.cc/SxWgcBtk/tumblr-f3c495760a6354a3db71752c70e5c6bb-e6aaffdb-250.png"/> Tia Marie
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1000&color=E55508&width=435&lines=Welcome!;Front+end+developer;Always+learning+new+things;Happy+Halloween!" alt="Typing SVG" /></a>
 
