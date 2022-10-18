@@ -37,7 +37,7 @@ Reach out to me at <b>tiamarie7@gmail.com</b>
 
 <details>
 <summary><h3> 👩🏻‍💻 Tia's Coding Journey</h3></summary>
-My coding journey started when I was a teenager, back when MySpace was at the top of the social media hierarchy. Wanting my page to stand out above my friend's (<i>and so I could get into everyone's top 8</i>), I started to teach myself basic HTML/CSS. Within months I was being asked to code everyone's pages and match them to their individual and unique tastes. That was my first introduction to coding and I fell in love.
+My coding journey started when I was a teenager, back when MySpace was at the top of the social media hierarchy. Wanting my profile to stand out above my friend's (<i>and so I could get into everyone's top 8</i>), I started to teach myself basic HTML/CSS. Within months I was being asked to make custom code for everyone's pages and design the code to their individual and unique tastes. That was my first introduction to coding and I fell in love.
 <br>
 Over the years I dabbled in coding very casually and only did it for recreation while I worked multiple retail jobs. It was still one of my favorite things to do in my off time.
 <br>
