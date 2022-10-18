@@ -1,6 +1,6 @@
 # 🧚🏻‍♀️ Tia Marie
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FE75B4&width=435&lines=Welcome!;Front+end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=26&duration=4000&pause=1000&color=FE75B4&width=435&lines=Welcome!;Front+end+developer;Always+learning+new+things" alt="Typing SVG" /></a>
 
 **`Web Designer (Developer/Photographer/Creator)`**
 
@@ -8,7 +8,7 @@ I'm an independent front-end web developer and photographer looking to find my p
 
 Reach out to me at <b>tiamarie7@gmail.com</b>
 
----
+#
 
 ### 🧰 Languages and Tools
 
