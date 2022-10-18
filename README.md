@@ -3,7 +3,9 @@
 
 **`Web Designer (Developer/Photographer/Creator)`**
 
-I'm an independant front-end web developer and photographer looking to find my place in the world of web development. 
+I'm an independent front-end web developer and photographer looking to find my place in the world of web development.
+
+Reach out to me at <b>tiamarie7@gmail.com</b>
 
 ---
 
